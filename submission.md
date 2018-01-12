@@ -12,21 +12,20 @@ Outlined below is a description of our solution in terms of the "What, Why, How"
 #### Datasets
 * **Data Types**: 
   * Items: Departure time, Arrival time, Boat load
-  * Links:
+  * Links: Network consisting of vessel paths (edges) and ports
   * Positions: Current boat location; i.e. distance between the boat and berth
 * **Data and Dataset Types**: Networks & Trees
 * **Dataset Types**: 
   * Tables: Docks will show a table contatining the departure and arrival time
-  * Networks:
+  * Networks: As mentioned above, the majority of the display is consumed by a network of vessel paths and ports
 * **Dataset Availability**: 
   * Dynamic: Position of the vessel and estimated arrival/departure time updates in real time. 
 
 #### Attributes
 * **Attribute Types**: 
   * Categorical: Dock and bearth location
-  * Ordered Quantitative:
 * **Ordering Direction**: 
-  * Diverging: Vessel position
+  * Diverging: Vessel position in a single route
   * Cyclic: The days of the week and the 24 hour span
 
 ### Why
