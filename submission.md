@@ -47,6 +47,10 @@ Outlined below is a description of our solution in terms of the "What, Why, How"
 * **Spatial Data**:
 
 ### How
+* **Encode**: We will encode different data types into different aspects of the visualization. For example, the availabile capacity of each vessel will be encoded as a percentage shaded into the vessel itself that can be scanned quickly with the eyes.
+* **Manipulate**: We will select the parts of the data we deem to be most important to highlight as the primary focus of the visualization. For example, the capacity of the vessels and their current locations will be immediately clear to the user, whereas further information such as departure and arrival times, as well as historic data, requires some interaction by the user to reveal.
+* 
+
 
 ## Design Study Methodology 
 Described below is how we would use the design study methodology for this task. Each stage may result in a revisitation of a previous stage with acquisition of new knowledge, realization of lack of knowledge, possibility for improvement, or requirements changes.
