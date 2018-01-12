@@ -17,5 +17,18 @@ Outlined below is a description of our solution in terms of the "What, Why, How"
 * **Ordering Direction**: Diverging, Cyclic 
 
 ### Why
+#### Actions
+* **Analyze**: 
+* **Search**:
+* **Query**:
+
+#### Targets
+* **All Data**:
+* **Attributes**:
+* **Network Data**:
+* **Spatial Data**:
 
 ### How
+
+## Design Study Methodology 
+Described below is how we would use the design study methodology for this task
