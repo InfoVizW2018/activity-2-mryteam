@@ -49,8 +49,8 @@ Outlined below is a description of our solution in terms of the "What, Why, How"
 ### How
 * **Encode**: We will encode different data types into different aspects of the visualization. For example, the availabile capacity of each vessel will be encoded as a percentage shaded into the vessel itself that can be scanned quickly with the eyes.
 * **Manipulate**: We will select the parts of the data we deem to be most important to highlight as the primary focus of the visualization. For example, the capacity of the vessels and their current locations will be immediately clear to the user, whereas further information such as departure and arrival times, as well as historic data, requires some interaction by the user to reveal.
-* 
-
+* **Facet**: We will superimpose different parts of the data from the tables into the visualization. For example, a vessel's capacity and location are both encoded into a single pictorial representation of a ship.
+* **Map**: We will map motion into the visualization with the vessels moving between ports corresponding to their current locations with respect to the real ports.
 
 ## Design Study Methodology 
 Described below is how we would use the design study methodology for this task. Each stage may result in a revisitation of a previous stage with acquisition of new knowledge, realization of lack of knowledge, possibility for improvement, or requirements changes.
@@ -70,3 +70,6 @@ Described below is how we would use the design study methodology for this task. 
 Because this is a project in which a problem is defined, a solution is created, tested and deployed, we would not need to reach this phase entirely. 
 
 ## Study pitfalls to consider
+* **PF-1**: Since we are new to the design study methodology framework and information visualization in general, we will have to be cautious about premature advance over the steps in the framework. Our brief approach summary above reflects the prioritization of particular phases, but if we were to pursue this project in reality, we would be more careful to spend a significant amount of time during each phase, constantly re-evaluating and reconsidering our choices as per an agile approach.
+* **PF-11**: We do not have any direct contact or rapport with the industry experts of this domain, so it will be important to establish such relationships (or collaborate with other researchers that already have these relationships) before advancing too far into the project.
+* **PF-24**: Assuming we are trying to fit this into a single school semester, we will most likely not have enough time to dedicate sufficient amount of time to each phase of the design study methodology framework. In particular, we would likely limit the amount of time allocated to deploying the visualization application in favour of spending more time in the research and learning phases.
