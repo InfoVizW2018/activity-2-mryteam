@@ -1,6 +1,9 @@
 # Activity 2 Submission
 ### Ryan Samarajeewa, Yuki Hayashi, Mohammed Abousaleh
 
+## Mock-up
+![Mockup](https://i.imgur.com/Ml8RZE5.jpg)
+
 ## Description
 Outlined below is a description of our solution in terms of the "What, Why, How" framework.
 
