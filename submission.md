@@ -47,3 +47,5 @@ Outlined below is a description of our solution in terms of the "What, Why, How"
 
 ## Design Study Methodology 
 Described below is how we would use the design study methodology for this task
+
+## Study pitfalls to consider
