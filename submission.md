@@ -14,7 +14,8 @@ Outlined below is a description of our solution in terms of the "What, Why, How"
   * Items: Departure time, Arrival time, Boat load
   * Links: Network consisting of vessel paths (edges) and ports
   * Positions: Current boat location; i.e. distance between the boat and berth
-* **Data and Dataset Types**: Networks & Trees
+* **Data and Dataset Types**: 
+  * Networks & Trees: Items(nodes) = ports, Links = vessel routes, Attributes = departure and arrival time
 * **Dataset Types**: 
   * Tables: Docks will show a table contatining the departure and arrival time
   * Networks: As mentioned above, the majority of the display is consumed by a network of vessel paths and ports
@@ -31,13 +32,16 @@ Outlined below is a description of our solution in terms of the "What, Why, How"
 ### Why
 #### Actions
 * **Analyze**: 
-  * Consume: 
+  * Consume: This visualization can be used to disover and present all of the ongoing routes
 * **Search**:
   * Lookup: Clicking on a vessel will show its load size and estimated arrival time. 
 * **Query**:
+  * Compare: Estimated departure and arrival tim can be compared to other days of the week.
 
 #### Targets
 * **All Data**:
+  * Trends: Geting recent departure/arrival times will allow better predictions of future departure/arrival times. 
+  * Outliers: If a delay in departure or arrival time occurs, it will be displayed in the docks or vessels.
 * **Attributes**:
 * **Network Data**:
 * **Spatial Data**:
