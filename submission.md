@@ -46,6 +46,20 @@ Outlined below is a description of our solution in terms of the "What, Why, How"
 ### How
 
 ## Design Study Methodology 
-Described below is how we would use the design study methodology for this task
+Described below is how we would use the design study methodology for this task. Each stage may result in a revisitation of a previous stage with acquisition of new knowledge, realization of lack of knowledge, possibility for improvement, or requirements changes.
+
+### Precondition Phase
+* **Learn**: Because it is assumed that we hold sufficient expertise in the field of information visualization, we can skip this phase entirely at first. However, we may revisit this stage to acquire new knowledge if needed.
+* **Winnow**: We assume that this collaboration is the most ideal, thus we can skip this stage.
+* **Cast**: We assume that we have established the most ideal roles for collaborations, thus we can skip this stage.
+
+### Core Phase
+* **Discover**: We would obtain requirements from the initial problem description, and conduct further requirements gathering as the project progresses. 
+* **Design**: A majority of the project timeline will be spent during this stage. After initial deployment, we may revisit this stage to make improvements. 
+* **Implement**: Once an acceptable design (deemed by the design team and stakeholders, Seaspan) has been formed, implementation may begin. Throughout this stage, it is crucial that the stakeholders are kept in the loop in the case that requirements changes arise.
+* **Deploy**: Once an acceptable implemetation has been developed, we would deploy the solution for production usage.
+
+### Analysis Phase
+Because this is a project in which a problem is defined, a solution is created, tested and deployed, we would not need to reach this phase entirely. 
 
 ## Study pitfalls to consider
